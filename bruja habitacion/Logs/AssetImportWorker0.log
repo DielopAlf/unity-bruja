@@ -15,7 +15,7 @@ C:/Users/DIEGO/Desktop/unity bruja/unity-bruja/bruja habitacion
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51257
+63150
 Successfully changed project path to: C:/Users/DIEGO/Desktop/unity bruja/unity-bruja/bruja habitacion
 C:/Users/DIEGO/Desktop/unity bruja/unity-bruja/bruja habitacion
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,7 +47,7 @@ C:/Users/DIEGO/Desktop/unity bruja/unity-bruja/bruja habitacion
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 47.26 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 47.39 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.13f1 (9e7d58001ecf)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.13f1/Editor/Data/Resources/UnitySubsystems
@@ -63,78 +63,78 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.13f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.13f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56224
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56432
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003283 seconds.
+Registered in 0.003210 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 55.40 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 46.62 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.428 seconds
+- Completed reload, in  0.416 seconds
 Domain Reload Profiling:
-	ReloadAssembly (428ms)
-		BeginReloadAssembly (45ms)
+	ReloadAssembly (416ms)
+		BeginReloadAssembly (52ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (0ms)
-		EndReloadAssembly (318ms)
-			LoadAssemblies (44ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (293ms)
+			LoadAssemblies (51ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (68ms)
+			SetupTypeCache (72ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (17ms)
-			SetupLoadedEditorAssemblies (203ms)
+			RebuildScriptCaches (16ms)
+			SetupLoadedEditorAssemblies (173ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (42ms)
+				InitializePlatformSupportModulesInManaged (35ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (55ms)
+				RefreshPlugins (47ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (71ms)
-				ProcessInitializeOnLoadMethodAttributes (34ms)
+				ProcessInitializeOnLoadAttributes (60ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003590 seconds.
+Registered in 0.003973 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\DIEGO\Desktop\unity bruja\unity-bruja\bruja habitacion\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\DIEGO\Desktop\unity bruja\unity-bruja\bruja habitacion\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.787 seconds
+- Completed reload, in  0.758 seconds
 Domain Reload Profiling:
-	ReloadAssembly (788ms)
-		BeginReloadAssembly (190ms)
+	ReloadAssembly (758ms)
+		BeginReloadAssembly (191ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (130ms)
-		EndReloadAssembly (524ms)
-			LoadAssemblies (53ms)
+			CreateAndSetChildDomain (129ms)
+		EndReloadAssembly (490ms)
+			LoadAssemblies (59ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (164ms)
+			SetupTypeCache (158ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (34ms)
-			SetupLoadedEditorAssemblies (247ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (224ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (10ms)
+				InitializePlatformSupportModulesInManaged (9ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (55ms)
-				ProcessInitializeOnLoadAttributes (157ms)
-				ProcessInitializeOnLoadMethodAttributes (21ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (50ms)
+				ProcessInitializeOnLoadAttributes (141ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
 				AfterProcessingInitializeOnLoad (3ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -142,13 +142,13 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3349 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 27 unused Assets / (113.4 KB). Loaded Objects now: 3808.
-Memory consumption went from 115.3 MB to 115.2 MB.
-Total: 2.222500 ms (FindLiveObjects: 0.169700 ms CreateObjectMapping: 0.076800 ms MarkObjects: 1.899200 ms  DeleteObjects: 0.075900 ms)
+Unloading 27 unused Assets / (113.5 KB). Loaded Objects now: 3809.
+Memory consumption went from 115.4 MB to 115.3 MB.
+Total: 2.283600 ms (FindLiveObjects: 0.172300 ms CreateObjectMapping: 0.071700 ms MarkObjects: 1.958000 ms  DeleteObjects: 0.080800 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -162,121 +162,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 6922.596044 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.008529 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 6.697095 seconds.
-  path: Assets/material suelo.mat
-  artifactKey: Guid(366bf6a489f03fa478061dd17fa2764e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/material suelo.mat using Guid(366bf6a489f03fa478061dd17fa2764e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '927aa0cfef2afd706717744761bca0e7') in 0.196735 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 33.275857 seconds.
-  path: Assets/material suelo.mat
-  artifactKey: Guid(366bf6a489f03fa478061dd17fa2764e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/material suelo.mat using Guid(366bf6a489f03fa478061dd17fa2764e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48bed5661d6b7fc90cc78fce8fee27fd') in 0.006399 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1183.795651 seconds.
-  path: Assets/pocima.mat
-  artifactKey: Guid(e8e8067bf33607d43bc98d0fdcd58d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/pocima.mat using Guid(e8e8067bf33607d43bc98d0fdcd58d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beb18581724210413f7387edbed39559') in 0.055390 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.134023 seconds.
-  path: Assets/pocima 1.mat
-  artifactKey: Guid(4e8dba5b439010d4db404070e0f92469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/pocima 1.mat using Guid(4e8dba5b439010d4db404070e0f92469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a03961559ba23256fdf3f0430e08ac26') in 0.030853 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.340448 seconds.
-  path: Assets/pocima 2.mat
-  artifactKey: Guid(5e230cdf6a47ddb4e8ddb854bf9a6ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/pocima 2.mat using Guid(5e230cdf6a47ddb4e8ddb854bf9a6ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57879b5da3e17e59b12335039d8d1ec6') in 0.034971 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.355644 seconds.
-  path: Assets/pocima 3.mat
-  artifactKey: Guid(e6c1bc9bd05a6494e9e236314b9e5d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/pocima 3.mat using Guid(e6c1bc9bd05a6494e9e236314b9e5d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1555217a18e1fed1c6f79df479ee72d6') in 0.030948 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.322160 seconds.
-  path: Assets/burbujas.mat
-  artifactKey: Guid(4e8dba5b439010d4db404070e0f92469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/burbujas.mat using Guid(4e8dba5b439010d4db404070e0f92469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6671e23f92863590630de7c596a5254') in 0.020766 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 9.831385 seconds.
-  path: Assets/fuego.mat
-  artifactKey: Guid(5e230cdf6a47ddb4e8ddb854bf9a6ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fuego.mat using Guid(5e230cdf6a47ddb4e8ddb854bf9a6ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45b893fb65d52ad0e76946b4d9b19145') in 0.006287 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 88.679774 seconds.
-  path: Assets/pocima 1.mat
-  artifactKey: Guid(5e230cdf6a47ddb4e8ddb854bf9a6ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/pocima 1.mat using Guid(5e230cdf6a47ddb4e8ddb854bf9a6ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7a660496141082fad73ffb6f97c5324') in 0.057651 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 6.962459 seconds.
-  path: Assets/fuego.mat
-  artifactKey: Guid(e6c1bc9bd05a6494e9e236314b9e5d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fuego.mat using Guid(e6c1bc9bd05a6494e9e236314b9e5d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2ff8f5ad57b4ad7451e65f6d33bfa78') in 0.006358 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 192.352070 seconds.
-  path: Assets/burbujas.mat
-  artifactKey: Guid(e8e8067bf33607d43bc98d0fdcd58d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/burbujas.mat using Guid(e8e8067bf33607d43bc98d0fdcd58d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86296a5184339c2c035c29b699065161') in 0.006620 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 14.266925 seconds.
-  path: Assets/bola cristal.mat
-  artifactKey: Guid(307f925a257ce4c4894a57ef27aaedc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/bola cristal.mat using Guid(307f925a257ce4c4894a57ef27aaedc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef1c38b98e29b5bd6c56a066c822b09') in 0.043057 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 108.547084 seconds.
-  path: Assets/bola cristal 1.mat
-  artifactKey: Guid(ed75a54d683ef7e4c88d9c19b69ef7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/bola cristal 1.mat using Guid(ed75a54d683ef7e4c88d9c19b69ef7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c3f7392d4588bcfc9af9ff8f2f6afa') in 0.033343 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/fuego.mat
-  artifactKey: Guid(e6c1bc9bd05a6494e9e236314b9e5d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/fuego.mat using Guid(e6c1bc9bd05a6494e9e236314b9e5d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4357b58fa2c4bdd843774c1e01b527a1') in 0.006710 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.247007 seconds.
-  path: Assets/pocima 2.mat
-  artifactKey: Guid(ed75a54d683ef7e4c88d9c19b69ef7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/pocima 2.mat using Guid(ed75a54d683ef7e4c88d9c19b69ef7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7a5ed17cd42598ca23a97010f5e5b50') in 0.005675 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 50.684788 seconds.
-  path: Assets/pocima 2.mat
-  artifactKey: Guid(ed75a54d683ef7e4c88d9c19b69ef7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/pocima 2.mat using Guid(ed75a54d683ef7e4c88d9c19b69ef7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e6528a38d77ca11041052f198f3e53e') in 0.061057 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 126.144819 seconds.
-  path: Assets/pocima 2.mat
-  artifactKey: Guid(ed75a54d683ef7e4c88d9c19b69ef7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/pocima 2.mat using Guid(ed75a54d683ef7e4c88d9c19b69ef7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c20bcdfdfefa83edf9f8e1ae64583699') in 0.033477 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/pocima 4.mat
-  artifactKey: Guid(ff4223340d13c5d4e9d7e476a35e0cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/pocima 4.mat using Guid(ff4223340d13c5d4e9d7e476a35e0cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27bdefaae1c85efc6ba557e40adb1fd4') in 0.050242 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 136.132652 seconds.
-  path: Assets/pocima 4.mat
-  artifactKey: Guid(ff4223340d13c5d4e9d7e476a35e0cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/pocima 4.mat using Guid(ff4223340d13c5d4e9d7e476a35e0cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30b0ed515ebd2188c45effe0991c86e6') in 0.009647 seconds 
+  Time since last request: 5367.306074 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2674dce19625341a93977afb0e20b126') in 0.005205 seconds 
