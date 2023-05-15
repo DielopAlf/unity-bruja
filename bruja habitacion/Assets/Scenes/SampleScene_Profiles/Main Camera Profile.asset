@@ -18,10 +18,10 @@ MonoBehaviour:
     value: 1
   focusDistance:
     overrideState: 1
-    value: 10
+    value: 9.4
   aperture:
     overrideState: 1
-    value: 0.05
+    value: 0.1
   focalLength:
     overrideState: 0
     value: 50
@@ -1378,7 +1378,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1.12
+    value: 1.25
   color:
     overrideState: 0
     value: {r: 0, g: 0, b: 0, a: 1}
@@ -1396,7 +1396,7 @@ MonoBehaviour:
     value: -12
   thicknessModifier:
     overrideState: 1
-    value: 5.04
+    value: 4.44
   directLightingStrength:
     overrideState: 0
     value: 0
@@ -1424,7 +1424,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 23.68
+    value: 28.26
   threshold:
     overrideState: 1
     value: 0.33
@@ -1480,10 +1480,10 @@ MonoBehaviour:
     value: {x: 0.5, y: 0.5}
   intensity:
     overrideState: 1
-    value: 0.221
+    value: 1
   smoothness:
     overrideState: 1
-    value: 0.426
+    value: 1
   roundness:
     overrideState: 0
     value: 1
